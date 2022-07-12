@@ -53,7 +53,7 @@ header .overlay {
     }
 }*/
 
-@media (max-width: 767px) {
+/* @media (max-width: 767px) {
     header {
         background: url('../media/background_image.jpg') black no-repeat 90% 50% scroll;
     }
@@ -61,7 +61,7 @@ header .overlay {
     header video {
         display: none;
     }
-}
+} */
 
 .navbar-custom {
     background-color: rgba(17, 17, 17, 0.5);
